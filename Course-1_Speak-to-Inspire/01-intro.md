@@ -1,5 +1,3 @@
-Here is the **introductory course note** for:
-
 # 🗣️ **Course 1: Speak to Inspire – The Art of Persuasive Communication**
 
 ---
