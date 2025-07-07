@@ -602,7 +602,7 @@ Lily learned what ImpactSpeak teaches best:
 **You don’t have to speak louder. You just have to speak better.** 🎯  
 
 ---
----
+
 
 ### ✅ 8️⃣ The ImpactSpeak Flow: Clear, Persuasive Communication in Action
 
@@ -653,92 +653,12 @@ START
   │  
   ▼  
  ✅ Effective, Human Communication!
-
-
-
----
----
-
-### ✍️ Quick Summary 1
-
-This flow shows the heart of **ImpactSpeak's communication model** — a practical, people-first way to speak clearly and confidently. Whether you're writing an email, giving a talk, or handling a crisis, the same process helps you stay focused, calm, and impactful. It starts with your audience and ends with real understanding. The trick isn't speaking more — it's speaking with intention.  
+```
 
 ---
 
-### ✍️ Quick Summary 2
+### ✍️ Quick Summary
 
-This diagram shows the full ImpactSpeak communication flow — from planning your message to delivering it with confidence. Each step helps you connect better with your audience, whether you're speaking in a meeting, writing an email, or leading in a crisis. It's not about being perfect. It's about being clear, kind, and confident — every time you communicate.
-
-Great communicators don’t just talk — **they connect**.
-
----
-
-### ✅ 9️⃣ Final Reflection on Real-Life Impact  
----
-
-## **“From Speaking to Leading: How Better Communication Transforms Everything”**  
-*A warm reflection on the lasting value of persuasive, clear, and human-centered communication.*
-
----
-
-### **1. Sarah Gains Confidence — and a Seat at the Table**  
-At *BrightTech Solutions*, Sarah was full of great ideas — but often stayed quiet during meetings. She didn’t feel confident enough to speak up, especially when others dominated the room.  
-After learning how to structure her thoughts and speak clearly using simple persuasive techniques, she finally raised her hand during a major strategy call.  
-Her message landed — sharp, brief, and memorable.  
-That moment changed her career: she became a team lead six months later.  
-When you can speak with clarity, people not only hear you — they remember you.
-
----
-
-### **2. Jack Builds Trust with His Team**  
-Jack, a project manager at *NovaMedica*, was known for being efficient — but not very approachable. His updates were full of jargon and long emails no one really read.  
-When he learned how to use human language, empathy, and better message structure, things shifted. His team started engaging more, asking questions, and giving better feedback.  
-Now, his weekly team briefings are short, clear, and even enjoyable.  
-People feel heard, included, and aligned.  
-Good communication builds not just understanding — it builds **trust**.
-
----
-
-### **3. Emma Learns to Stay Calm in the Fire**  
-During a product glitch, Emma — a junior at *Willow Finance* — had to send a message to 300 clients. It was her first real crisis.  
-Instead of panicking, she followed the training: pause, plan, write clearly, use a calm tone.  
-Her message avoided blame, focused on solutions, and reassured the clients.  
-Her manager said, *“That email probably saved us 50 calls.”*  
-Mastering crisis communication doesn’t just protect your brand — it grows your confidence under pressure.
-
----
-
-### **4. Clear Messages = Faster, Better Decisions**  
-When communication is unclear, teams get stuck. Misunderstandings pile up.  
-But when someone like Jack or Sarah presents an issue with the right tone and structure, decisions get made faster.  
-There’s no back-and-forth, no confusion, no delay.  
-That’s the hidden power of persuasive communication: it saves time, reduces conflict, and moves projects forward.  
-It’s not just about being understood — it’s about **getting results**.
-
----
-
-### **5. Real Leadership Starts with Real Listening**  
-One of the biggest lessons in communication is this: the best communicators are also the best listeners.  
-After learning the importance of active listening, Sarah started inviting her team’s input during meetings — not just talking over them.  
-People noticed.  
-She became the kind of leader people trusted, because she made them feel heard.  
-Persuasive communication isn’t about pushing your voice — it’s about **lifting others’ voices** too.
-
----
-
-### **6. Your Words Shape Your Brand — and Your Career**  
-Whether you’re writing a job application or speaking at a meeting, your words shape how others see you.  
-Emma once said, *“I didn’t need to become someone louder — just someone clearer.”*  
-Strong communication becomes your personal brand. It opens doors, builds respect, and turns everyday work into meaningful impact.  
-That’s not just skill — that’s leadership in motion.
-
----
-
-### **7. A Skill That Grows With You**  
-The best part? This skill evolves as you do.  
-You’ll use it in interviews, memos, conversations, negotiations, and even in moments of tension.  
-And every time you practice it, you get better.  
-Communication is a career-long superpower — and now, you’ve started building it.  
-Welcome to the ImpactSpeak mindset: **clear, kind, and confidently human.**
+This diagram shows the full **ImpactSpeak communication flow** — from planning your message to delivering it with confidence. Each step helps you connect better with your audience, whether you're speaking in a meeting, writing an email, or leading in a crisis. It's not about being perfect. It's about being **clear, kind, and confident** — every time you communicate.
 
 ---
