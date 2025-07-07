@@ -602,61 +602,66 @@ Lily learned what ImpactSpeak teaches best:
 **You don’t have to speak louder. You just have to speak better.** 🎯  
 
 ---
-### ✅ 8️⃣ Text-Based Diagram or Communication Flow  
----
-
-## **📊 The ImpactSpeak Flow: Clear, Persuasive Communication in Action**
-
-START
-│
-▼
-[Step 1] Understand Your Audience
-Who are you talking to?
-What do they care about?
-What do they need to know?
-
-│
-▼
-[Step 2] Define Your Core Message
-What’s your main point?
-Keep it clear, short, and useful.
-
-│
-▼
-[Step 3] Structure Your Message
-Use the simple "3-Part Flow":
-➤ What happened
-➤ What it means
-➤ What happens next
-
-│
-▼
-[Step 4] Choose the Right Tone
-Calm? Confident? Reassuring?
-Match tone to the situation and listener.
-
-│
-▼
-[Step 5] Deliver with Presence
-Take a breath.
-Speak at a steady pace.
-Let your message land.
-
-│
-▼
-[Step 6] Listen and Adjust
-Watch for feedback.
-Be ready to clarify or rephrase.
-
-│
-▼
-✅ Effective, Human Communication!
+### ✅ 8️⃣ The ImpactSpeak Flow: Clear, Persuasive Communication in Action
 
 ---
 
-### ✍️ Quick Summary (Why This Flow Works)
+```text
+START  
+  │  
+  ▼  
+[Step 1] Understand Your Audience  
+        • Who are you talking to?  
+        • What do they care about?  
+        • What do they need to know?  
+
+  │  
+  ▼  
+[Step 2] Define Your Core Message  
+        • What’s your main point?  
+        • Keep it clear, short, and useful.  
+
+  │  
+  ▼  
+[Step 3] Structure Your Message  
+        Use the simple "3-Part Flow":  
+        ➤ What happened  
+        ➤ What it means  
+        ➤ What happens next  
+
+  │  
+  ▼  
+[Step 4] Choose the Right Tone  
+        • Calm? Confident? Reassuring?  
+        • Match tone to the situation and listener.  
+
+  │  
+  ▼  
+[Step 5] Deliver with Presence  
+        • Take a breath.  
+        • Speak at a steady pace.  
+        • Let your message land.  
+
+  │  
+  ▼  
+[Step 6] Listen and Adjust  
+        • Watch for feedback.  
+        • Be ready to clarify or rephrase.  
+
+  │  
+  ▼  
+ ✅ Effective, Human Communication!
+
+---
+
+### ✍️ Quick Summary 1
 
 This flow shows the heart of **ImpactSpeak's communication model** — a practical, people-first way to speak clearly and confidently. Whether you're writing an email, giving a talk, or handling a crisis, the same process helps you stay focused, calm, and impactful. It starts with your audience and ends with real understanding. The trick isn't speaking more — it's speaking with intention.  
+
+---
+
+✍️ Quick Summary 2
+This diagram shows the full ImpactSpeak communication flow — from planning your message to delivering it with confidence. Each step helps you connect better with your audience, whether you're speaking in a meeting, writing an email, or leading in a crisis. It's not about being perfect. It's about being clear, kind, and confident — every time you communicate.
 
 Great communicators don’t just talk — **they connect**.
 
