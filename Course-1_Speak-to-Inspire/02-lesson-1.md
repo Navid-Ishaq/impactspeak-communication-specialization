@@ -602,11 +602,13 @@ Lily learned what ImpactSpeak teaches best:
 **You don’t have to speak louder. You just have to speak better.** 🎯  
 
 ---
+---
 
 
 
 
-
+---
+---
 
 ### ✍️ Quick Summary 1
 
@@ -690,57 +692,3 @@ Communication is a career-long superpower — and now, you’ve started building
 Welcome to the ImpactSpeak mindset: **clear, kind, and confidently human.**
 
 ---
-
-
-
-
-### ✅ 8️⃣ The ImpactSpeak Flow: Clear, Persuasive Communication in Action
-
----
-
-```text
-START  
-  │  
-  ▼  
-[Step 1] Understand Your Audience  
-        • Who are you talking to?  
-        • What do they care about?  
-        • What do they need to know?  
-
-  │  
-  ▼  
-[Step 2] Define Your Core Message  
-        • What’s your main point?  
-        • Keep it clear, short, and useful.  
-
-  │  
-  ▼  
-[Step 3] Structure Your Message  
-        Use the simple "3-Part Flow":  
-        ➤ What happened  
-        ➤ What it means  
-        ➤ What happens next  
-
-  │  
-  ▼  
-[Step 4] Choose the Right Tone  
-        • Calm? Confident? Reassuring?  
-        • Match tone to the situation and listener.  
-
-  │  
-  ▼  
-[Step 5] Deliver with Presence  
-        • Take a breath.  
-        • Speak at a steady pace.  
-        • Let your message land.  
-
-  │  
-  ▼  
-[Step 6] Listen and Adjust  
-        • Watch for feedback.  
-        • Be ready to clarify or rephrase.  
-
-  │  
-  ▼  
- ✅ Effective, Human Communication!
-
